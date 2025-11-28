@@ -20,7 +20,7 @@ No, the lock file is not always in the bucket after it is created. The lock file
 
 ### Just the state file
 
-![terraform state file screenshot]("tfstate file.png")
+![terraform state file screenshot](tfstate-file.png)
 
 ### Just the lock file
 
@@ -28,4 +28,4 @@ No, the lock file is not always in the bucket after it is created. The lock file
 
 ### Both state and lock file
 
-![screenshot of both lock and state files]("both lock and state files.png")
+![screenshot of both lock and state files](both-lock-and-state-files.png)
